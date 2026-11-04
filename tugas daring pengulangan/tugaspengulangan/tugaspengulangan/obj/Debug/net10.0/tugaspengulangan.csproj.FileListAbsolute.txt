@@ -1,0 +1,15 @@
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\bin\Debug\net10.0\tugaspengulangan.exe
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\bin\Debug\net10.0\tugaspengulangan.deps.json
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\bin\Debug\net10.0\tugaspengulangan.runtimeconfig.json
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\bin\Debug\net10.0\tugaspengulangan.dll
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\bin\Debug\net10.0\tugaspengulangan.pdb
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspengulangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspengulangan.AssemblyInfoInputs.cache
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspengulangan.AssemblyInfo.cs
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspengulangan.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspengulangan.dll
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\refint\tugaspengulangan.dll
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspengulangan.pdb
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspengulangan.genruntimeconfig.cache
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\ref\tugaspengulangan.dll
+C:\Users\v\Desktop\tugas daring pengulangan\tugaspengulangan\tugaspengulangan\obj\Debug\net10.0\tugaspen.95301655.Up2Date
